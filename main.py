@@ -8,7 +8,7 @@ nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 from nltk.metrics import distance
 
-token = "6912814259:AAF1Kyc9zTA6MftmUWoN3lGx8fNHC8lxRPc"
+token = "token"
 path_dic = r"tbot_dataset.txt"
 
 class BotHandler:
